@@ -1,0 +1,16 @@
+.abc {
+    display: flex;
+    justify-content:space-around;
+    margin-right: 70px;
+    margin-top: 50px;
+}
+.abd{
+    display: flex;
+    justify-content:center;
+    margin-top: 100px;
+}
+.abe{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 50px;
+}
